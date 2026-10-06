@@ -1,0 +1,8 @@
+{
+  "name": "Fraud Detection System",
+  "description": "Machine learning fraud detection system for financial transactions, featuring real-time risk assessment, probability scoring, and transaction analysis.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
